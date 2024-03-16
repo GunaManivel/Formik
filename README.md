@@ -140,7 +140,7 @@ book-management-system/
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/GunaManivel/Formik
 ```
 
 2. Navigate to the project directory:
