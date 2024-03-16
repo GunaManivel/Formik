@@ -53,7 +53,7 @@ const CreateAuthor = () => {
         <div className="card-header text-center">
           <h2>Add New Author</h2>
         </div>
-        <div className="card-body">
+        <div className="card-body cardbody">
           <form onSubmit={formik.handleSubmit}>
             <div className="form-group row">
               <label className="col-sm-4 col-form-label">Id :</label>
