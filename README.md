@@ -60,7 +60,7 @@ This project is a simple Book Management System built using React.js for the fro
 
 - ### Create
   
-**File******: `Create.jsx`
+**File**: `Create.jsx`
 
 **Description**: Component for creating a new book. It provides a form for users to input book details and submits the data to the mock API.
 
