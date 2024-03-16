@@ -1,6 +1,7 @@
 // Footer.js
 
 import React from "react";
+import "./Styles/Books.css";
 
 const Footer = () => {
   return (
@@ -10,7 +11,7 @@ const Footer = () => {
         background: "#444444  ",
       }}
     >
-      <div className="container">
+      <div className="container cardbody">
         <p>&copy; {new Date().getFullYear()} Bookify. All rights reserved.</p>
       </div>
     </footer>
