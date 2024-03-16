@@ -1,0 +1,36 @@
+.custom-navbar {
+    background: #444444;
+    font-family: 'Baumans';
+    font-weight: bolder;
+    text-shadow: #ffffff;
+}
+
+.navbar-container {
+    height: 80px;
+}
+
+.brand-text {
+    color: #2272ff;
+    /* Add more styles for the brand text */
+}
+
+.navbar-nav .nav-link {
+    color: #2272ff;
+    /* Add more styles for the navbar links */
+}
+
+/* Hover effect styles */
+.navbar-nav .nav-link:hover {
+    color: #ffffff;
+    /* Change color on hover */
+    background-color: #2272ff;
+    /* Add background color on hover */
+    border-radius: 5px;
+    /* Add rounded corners */
+    transition: all 0.3s ease;
+    /* Add smooth transition */
+}
+.text-bold{
+    font-weight: bolder;
+    font-size: larger;
+}

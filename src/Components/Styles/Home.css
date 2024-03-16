@@ -1,0 +1,20 @@
+.tablehead {
+    font-family: 'Bagel Fat One';
+    font-size: 20px;
+}
+.tablebody {
+    font-family: 'Baumans';
+    font-size: 14px;
+}
+
+.Buttons {
+    font-family: 'Bagel Fat One';
+    font-size: 14px;
+}
+.Button{
+    font-family: 'Baumans';
+    font-size: 18px!important;
+}
+h2{
+    font-family: 'Bagel Fat One'
+}

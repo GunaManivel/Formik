@@ -1,0 +1,16 @@
+.cardhead {
+    font-family: 'Bagel Fat One';
+    font-size: 22px;
+}
+.cardbody {
+    font-family: 'Baumans';
+     font-size: 14px;   
+}
+ /* .customcard {
+    height: 260px;
+    /* Set your desired default height 
+} */
+.Buttons {
+    font-family: 'Bagel Fat One';
+        font-size: 14px;
+}
