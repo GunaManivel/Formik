@@ -49,7 +49,7 @@ const CreateAuthor = () => {
 
   return (
     <div className="container d-flex justify-content-center align-items-center">
-      <div className="card mt-4 mb-5 py-3" style={{ width: "50%" }}>
+      <div className="card mt-5 mb-5  py-4" style={{ width: "50%" }}>
         <div className="card-header text-center">
           <h2>Add New Author</h2>
         </div>

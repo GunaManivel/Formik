@@ -11,7 +11,7 @@ const Footer = () => {
         background: "#444444  ",
       }}
     >
-      <div className="container cardbody">
+      <div className="container">
         <p>&copy; {new Date().getFullYear()} Bookify. All rights reserved.</p>
       </div>
     </footer>

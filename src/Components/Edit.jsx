@@ -85,7 +85,7 @@ const Edit = ({ id }) => {
 
   return (
     <div className="container d-flex justify-content-center align-items-center">
-      <div className="card mt-3" style={{ width: "50%" }}>
+      <div className="card mt-3 mb-5" style={{ width: "50%" }}>
         <div className="card-header text-center">
           <h2>Edit Book Details</h2>
         </div>
